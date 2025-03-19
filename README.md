@@ -1,4 +1,4 @@
-## Hey there! I'm Tejash<br>🚀 
+<h1><b>Hi there, I'm </b><a href="https://github.com/tejash111">Tejash Rajput</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 # 💫 About Me:
 First-Year B.Tech Student | Aspiring Web Developer<br>I'm a curious coder navigating the web dev universe. Currently surviving the first year of B.Tech with a cup of coffee in one hand and a debugger in the other.<br><br>💻 What I Do<br>Building cool web apps (or at least trying to)<br>Breaking code and fixing it (eventually)<br><br>🔥 Fun Fact<br>My code works 60% of the time... every time. 😎<br><br>📫 Let's Connect<br>If you love tech, memes,movies,space or just need someone to share your coding struggles with, hit me up!
 
