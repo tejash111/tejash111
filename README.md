@@ -28,4 +28,6 @@ First-Year B.Tech Student | Aspiring Web Developer<br>I'm a curious coder naviga
 ---
 [![](https://visitcount.itsvg.in/api?id=tejash111&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=tejash111&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=tejash111&color=brightgreen&style=flat)
