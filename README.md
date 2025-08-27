@@ -43,14 +43,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejash111&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-  <h3 align="center">Visitor Count</h3>
- <a align="center" href="https://profile-counter.glitch.me/{JiyaGupta-cs}/count.svg">
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyush-who&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tejash111&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tejash111&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=Pratyush-who&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=pratyush-who&color=brightgreen&style=flat)
